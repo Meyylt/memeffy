@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500;700&display=swap');
+@import "tailwindcss";
+
+/* Configuration globale pour ton design sombre */
+body {
+  background-color: #0F172A; /* Ton bleu nuit */
+  color: white;              /* Texte blanc par défaut */
+  margin: 0;
+  font-family: 'Jost', sans-serif;
+}
